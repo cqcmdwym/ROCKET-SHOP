@@ -1,0 +1,14 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription mudule for Rocket Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "cqcmdwym",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
