@@ -9,6 +9,7 @@
   "author": "cqcmdwym",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.18.1",
     "underscore": "^1.8.3"
   }
 }
